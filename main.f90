@@ -6,4 +6,6 @@ program main
         sum = sum + i
     enddo
     
+    print *,"sum = ",sum
+    
     end program 
